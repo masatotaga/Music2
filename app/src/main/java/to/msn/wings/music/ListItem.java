@@ -6,7 +6,7 @@ package to.msn.wings.music;
 public class ListItem {
 
     /*フィールド*/
-    private long id = 0;          //ID
+    private long id = 0;          //ID名
     private  String name = null;  //名前
     private int icon = 0;         //アイコン画像（リソースID）
     private  int song_id = 0;     //曲のid
