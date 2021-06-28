@@ -10,7 +10,7 @@ class ListDataSource {
     private static final String[] names =
             {
                     "jazz_in_paris", "the_coldest_shoulder", "おおさそり", "がいこつ", "メーダー",
-                    "リカント", "キメラ", "よろいのきし", "ドラゴン", "ゴーレム"
+                    "リカント", "キメラ", "よろいのきし", "ドラゴン", "ゴーム"
             };
 
 
